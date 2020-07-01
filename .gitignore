@@ -1,0 +1,7 @@
+# Project exclude paths
+/.gradle/
+/Flashcards/task/build/
+/Flashcards/task/out/
+/Flashcards/task/out/production/classes/
+/Problems (8)/Quadratic equation/out/
+/Problems (8)/Quadratic equation/out/production/classes/

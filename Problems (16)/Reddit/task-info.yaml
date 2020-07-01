@@ -1,0 +1,16 @@
+type: code
+files:
+- name: src/Task.kt
+  visible: true
+  text: |-
+    class Site(val address: String, val foundationYear: Int)
+
+    // Write the makeReddit function here
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6244
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/6244">JetBrains
+    Academy</a></html>
+  time: Wed, 01 Jul 2020 10:38:01 UTC
+record: -1

@@ -1,0 +1,20 @@
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+> import
+File name:
+> cards.txt
+2 cards have been loaded.
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+> ask
+How many times to ask?
+> 2
+lprint the definition of "Germany":
+> f
+Wrong answer. The correct one is "Berlin"
+lprint the definition of "France":
+> 9
+Wrong answer. The correct one is "Paris"
+
+Input the action (add, remove, import, export, ask, exit, log, hardest card, reset stats):
+> log
+File name:
